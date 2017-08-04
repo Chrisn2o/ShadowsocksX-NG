@@ -4,7 +4,7 @@ Current version is 1.4.0-R8
 
 Continuesly release under 1.4.0-R8-buildVersion
 
-[![Build Status](https://travis-ci.org/shadowsocksr/ShadowsocksX-NG.svg?branches=develop)](https://travis-ci.org/shadowsocksr/ShadowsocksX-NG)
+[![Build Status](https://travis-ci.org/Readour/ShadowsocksX-NG.svg?branch=master)](https://travis-ci.org/Readour/ShadowsocksX-NG)
 
 Next Generation of [ShadowsocksX](https://github.com/shadowsocks/shadowsocks-iOS) with SSR support.
 
